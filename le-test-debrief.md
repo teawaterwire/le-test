@@ -1,4 +1,4 @@
-*In bold are the fundamental Javascript concepts that this test is trying to cover.*
+*In bold are the fundamental JavaScript concepts that this test is trying to cover.*
 
 ## Keep calm and smash it :)
 
@@ -117,7 +117,7 @@ Writing React components we've come to use this **binding mechanism** a lot, thi
 
 5.
 *[Help]* `Function.apply` syntax: `fun.apply(thisArg, [argsArray])`
-```javasript
+```javascript
 var yourArray = [[2], [[['deep']]], {ok: 0}, 'end'];
 var goDeep = function(a) {
  return Array.prototype.concat.apply([], a);
@@ -191,4 +191,4 @@ The key concept here is **hoisting**. Only 30% of candidates would know about it
 The key idea here is that:
 > A **potato** is just a fucking potato.
 
-*For the records, about 40 candidates took this test and only one was able to get every questions right. That adds to **2.5%** (given that they were all pre-screened).*
+*For the records, about 40 candidates took this test and only one was able to get every questions right. That adds up to 2.5% (given that they were all pre-screened).*

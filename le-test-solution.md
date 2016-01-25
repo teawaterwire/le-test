@@ -87,7 +87,7 @@ myConsoleLog('toc');
 
 5.
 *[Help]* `Function.apply` syntax: `fun.apply(thisArg, [argsArray])`
-```javasript
+```javascript
 var yourArray = [[2], [[['deep']]], {ok: 0}, 'end'];
 var goDeep = function(a) {
  return Array.prototype.concat.apply([], a);
