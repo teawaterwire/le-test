@@ -61,3 +61,5 @@ No matter how hard you're trying, you cannot fight against Carl Friedrich and hi
 #### Why updating it?
 
 ES6 is here.
+
+:cookie:
