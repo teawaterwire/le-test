@@ -32,7 +32,7 @@ you've got too much time on your hands!
 
 #### For which company?
 
-- It's called WorkAngel, we build an employee engagement platform.
+- It's called [WorkAngel](https://www.workangel.com/). We build an employee engagement platform.
 - It's a tech company (around 70 people at the time of commiting).
 - I'm in charge of the Web Team.
 - Javascript is our main technology.
