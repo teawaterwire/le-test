@@ -7,26 +7,24 @@ BuzzFeed title:
 ### Qu'est-ce que c'est ?
 This is the coding test I've been using for almost a year now.
 I'm updating it,
-so I thought it could be interesting to share it with the World™.
-We all know about the technical tests at big tech companies. But I guess it could also
-be interesting to see how it works for small startups.
+so I thought it would be interesting to share it with the World™.
+We all know about the technical tests at big tech companies.
+But, it's interesting to know how small startups approach it.
 
-This has been my first experience as a Lead Front (and as a hiring manager) hence I'm not pretending here
-to have created the best test ever. But at least
-Le Test is drawn from my experience being interviewed at 10+ companies (big and small) in the past.
+This has been my first experience as a Lead Front End dev _(and hiring manager)_, so I'm not pretending to have created the best test ever.
+But, Le Test is drawn from my experience of being both sides of the interviewing desk, having had interviews at >10 companies _(big and small)_.
 
 Establishing this extra step in the hiring process was controversial in the beginning for all the usual reasons:
 - Good candidates can fail tests
 - Bad candidates can pass tests
 - blablabla
 
-Instead of debating for 3 months, we tried it and we've been quite happy with it so far.
+Without the red tape of larger businesses, we simply tried it, and we've been quite happy with it so far.
 
 I think it's important to have your *own* test and not get one from THE internets because
-the process of writing it helps you think about what you really want from candidates.
+the process of writing it helps you think about what you really want in a candidate.
 
-Without further ado, [click here](https://github.com/teawaterwire/le-test/blob/master/le-test.md) if you want to challenge yourself, [here](https://github.com/teawaterwire/le-test/blob/master/le-test-solution.md) if you're a cheater or [here](https://github.com/teawaterwire/le-test/blob/master/le-test-debrief.md) if
-you've got too much time on your hands!
+Without further ado, you can [challenge yourself at the test](https://github.com/teawaterwire/le-test/blob/master/le-test.md), or cheat and [look at the answers](https://github.com/teawaterwire/le-test/blob/master/le-test-solution.md), or [read the debrief](https://github.com/teawaterwire/le-test/blob/master/le-test-debrief.md) if you've got too much time on your hands!
 
 ### Some bullet points for people who don't like prose
 
@@ -40,16 +38,17 @@ you've got too much time on your hands!
 #### Why a test?
 
 - We need good Front-End engineers for the Web Team.
-- We needed a way to efficiently filter out candidates that weren't technically good enough.
-- We didn't want a 4-hour test (because we already had one as an extra step of the process – if needed)
-- We wanted something that resembled big tech companies' tests (because they must be doing it for a reason)
-- But easier (because pragmatism never hurts)
+- We needed a way to efficiently filter out candidates that weren't technically sound.
+- We didn't want a 4-hour test (because we already had one as an extra step of the process – if needed).
+- We wanted something that resembled big tech companies' tests (they must be doing it for a reason).
+- But easier (because pragmatism never hurts).
 
 #### Live coding vs debriefing afterwards?
 
 I did both.
-I prefer putting people in a room and asking them questions after. Because it's less stressful.
-But when I was interviewing candidates from foreign countries a live google doc editing over Skype worked as well.
+
+I prefer putting people in a room and asking them questions after, because it's less stressful.
+But, during interviews with foreign candidates, editing a live Google Doc over Skype worked as well.
 
 #### Results?
 
