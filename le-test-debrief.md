@@ -138,7 +138,7 @@ Object destructuring, arrow functions, let, template strings
 `let {doge} = dogs;`
 
 Back one year ago, **ES6** was still fairly "new". On average people had heard about `let` and arrow functions but didn't really know what was destructuring and template literals.
-Generators seemed also something that people were incredibly excited about without knowing what they really were...!
+Generators also seemed to be something that people were incredibly excited about without knowing what they really were...!
 
 7.
 > Write a function `getMax` that returns the max element of an array of positive integers such as:
@@ -164,7 +164,7 @@ sum(2); // returns 3 (= 2 + 1)
 
 `const sum = (a, b = 0) => a ? sum(a-1, b+a) : b;`
 
-The idea behind this one is to check if the candidate has already heard about **recursion**.
+The idea behind this one is to check if the candidate had an understanding of **recursion**.
 
 I wasn't expecting this tail-recursive one-liner, but again just a working implementation. Only 50% passed this question.
 
