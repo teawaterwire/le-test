@@ -88,7 +88,7 @@ console.log(o);
 Hey Dawg, have you heard of **object mutation**?!
 The key here is to understand that `d` is a reference to the array. Hence `shift` is going to mutate this array.
 
-Some people were confused by the IFFE and/or didn't know `shift`'s behaviour.
+Some people were confused by the IIFE and/or didn't know `shift`'s behaviour.
 
 4.
 *[help]* `Function.bind` syntax: `fun.bind(thisArg[, arg1[, arg2[, ...]]])`
