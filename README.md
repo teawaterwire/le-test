@@ -30,7 +30,7 @@ Without further ado, you can [challenge yourself at the test](https://github.com
 
 #### For which company?
 
-- It's called [WorkAngel](https://www.workangel.com/). We build an employee engagement platform.
+- It's called [LifeWorks](https://www.lifeworks.com). We build an employee engagement platform.
 - It's a tech company (around 70 people at the time of commiting).
 - I'm in charge of the Web Team.
 - Javascript is our main technology.
