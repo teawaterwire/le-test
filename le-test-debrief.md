@@ -13,7 +13,7 @@ console.log(a.join('!'));
 The idea of this first question was to **put the candidate at ease**. I thought that everybody would know how `join` worked and could infer the obvious result quite easily.
 Actually, I found out that this was stressing candidates out. Some didn't know `join` and/or couldn't figure out what to do with the empty Array. But I kept it as a way to see how people go about making assumptions.
 
-*Inside story*: I put `null` instead of `[]` at the beginning. This would give the same result but it was surprising because according to the documentation `join` "joins the string conversions of all array elements into one string". And since `String(null)` gives `'null'` this should have been `So happy to do this testnull`. I had to look at the actual `join`'s spec, and see that `undefined` and `null` are explicitely converted to empty strings. I amended Mozilla's website while I was at it :D
+*Inside story*: I put `null` instead of `[]` at the beginning. This would give the same result but it was surprising because according to the documentation `join` "joins the string conversions of all array elements into one string". And since `String(null)` gives `'null'` this should have been `So happy to do this testnull`. I had to look at the actual `join`'s spec, and see that `undefined` and `null` are explicitely converted to empty strings. I amended Mozilla's website while I was at it :smiley:
 
 Btw, I chose `[]` because it's kind of "funny" that String conversion of an Array is the result of calling `join` on it!
 
@@ -150,7 +150,7 @@ getMax([1, 4, 3, 2]); // returns `4`
 
 You'll agree that this one is dead simple. I didn't really expect the one-liner using `Math.max` but at least a **working implementation of this algorithm**.
 
-It made me sad when people used `for` loop when they could have gone with `forEach` or `reduce` :D
+It made me sad when people used `for` loop when they could have gone with `forEach` or `reduce` :smiley:
 
 The people who couldn't do it were the ones trying to over complicate the problem. Like by trying to sort the array first.
 
